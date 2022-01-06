@@ -4,11 +4,13 @@
 
 ## Examples
 
-### Vertical Obstacles
+### Obstacle Field
 
-![vertical obstacles](https://github.com/samerwh/Path-Planning/blob/main/Examples/vertical_obstacles.png)
+![obstacle field](https://github.com/samerwh/Path-Planning/blob/main/Examples/obstacle_field.png)
 
 ### The Maze
 
 ![the maze](https://github.com/samerwh/Path-Planning/blob/main/Examples/maze.png)
+
+
 
