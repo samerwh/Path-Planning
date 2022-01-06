@@ -5,9 +5,9 @@ Using the A* algorithm to compute the shortest route across an obstacle map
 
 ### Vertical Obstacles
 
-[](https://github.com/samerwh/Path-Planning/blob/main/Examples/vertical_obstacles.png)
+![a](https://github.com/samerwh/Path-Planning/blob/main/Examples/vertical_obstacles.png)
 
 ### The Maze
 
-[](https://github.com/samerwh/Path-Planning/blob/main/Examples/maze.png)
+![a](https://github.com/samerwh/Path-Planning/blob/main/Examples/maze.png)
 
