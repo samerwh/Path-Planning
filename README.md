@@ -1,6 +1,6 @@
 # Path-Planning
 
-[path-planning.cpp] consists on an implementation of the A-Star path search algorithm. The solution data is plotted using matplotlib.
+[path-planning.cpp](https://github.com/samerwh/Path-Planning/blob/main/path_planning.cpp) consists on an implementation of the A-Star path search algorithm. The solution data is plotted using matplotlib.
 
 ## Examples
 
